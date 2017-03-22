@@ -5,10 +5,10 @@ Vagrant for SMACK (Spark, Mesos, Akka, Cassandra and Kafka) Stack
 
 Vagrant project to spin up a single virtual machine running:
 
-* Mesos 1.0
+* Mesos 1.1
 * Hadoop 2.7.2
 * Hive 1.2.1
-* Spark 2.0.0
+* Spark 2.1.0
 * Confluent-io 3.0.0_2.11 platform 
 * Apache Zeppelin 0.6.1
 * Apache NiFi 1.0.0
